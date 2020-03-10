@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using Gameplay.Enemys;
+using Gameplay.Enemies;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour

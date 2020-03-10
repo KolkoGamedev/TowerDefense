@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Gameplay.Enemys
+namespace Gameplay.Enemies
 {
     [CreateAssetMenu]
     public class EnemyStatistics : ScriptableObject
