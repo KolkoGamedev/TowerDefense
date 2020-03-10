@@ -6,10 +6,10 @@ using UnityEngine;
 
 public class Tester : MonoBehaviour
 {
-    [SerializeField] private BaseTurret baseTurret = null;
+    //[SerializeField] private TurretStatistics baseTurret = null;
 
     private void Start()
     {
-        Debug.Log((baseTurret.damage * baseTurret.rateOfFire)/60);
+        //Debug.Log((baseTurret.damage * baseTurret.rateOfFire)/60);
     }
 }

@@ -6,11 +6,17 @@
     <e p="C:\Users\mixux\Documents\GitHub\TowerDefense" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Scripts" t="Include">
-          <e p="Tester.cs" t="Include" />
+        <e p="Gameplay" t="Include">
+          <e p="Enemys" t="Include">
+            <e p="EnemyStatistics.cs" t="Include" />
+          </e>
+          <e p="Turrets" t="Include">
+            <e p="TurretStatistics.cs" t="Include" />
+          </e>
         </e>
-        <e p="Turrets" t="Include">
-          <e p="BaseTurret.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Enemy.cs" t="Include" />
+          <e p="Tester.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />

@@ -11,14 +11,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Turrets/BaseTurret.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tester.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Gameplay/Enemys/EnemyStatistics.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/Tester.cs" />
         <option value="$PROJECT_DIR$/Assets/Turrets/BaseTurret.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Enemys/EnemyStatistics.cs" />
+        <option value="$PROJECT_DIR$/Assets/Gameplay/Turrets/BaseTurret.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tester.cs" />
       </list>
     </option>
   </component>
@@ -63,19 +67,20 @@
       <updated>1583778801757</updated>
       <workItem from="1583778807518" duration="649000" />
       <workItem from="1583787670757" duration="83000" />
+      <workItem from="1583832583232" duration="604000" />
     </task>
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Notifications" timestamp="1583778818249">
+    <state x="552" y="178" key="#Notifications" timestamp="1583832597134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Notifications/1920.39.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1583778818248" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1583778871713">
+    <state x="552" y="178" key="#Notifications/1920.39.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1583832597134" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1583832614293">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/1920.39.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1583778871713" />
+    <state x="461" y="162" key="SettingsEditor/1920.39.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1583832614293" />
   </component>
 </project>

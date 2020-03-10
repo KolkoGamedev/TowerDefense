@@ -5,7 +5,7 @@ using UnityEngine;
 namespace Turrets
 { 
     [CreateAssetMenu] 
-    public class BaseTurret : ScriptableObject
+    public class TurretStatistics : ScriptableObject
     {
         public float damage = 5f;
         public float rateOfFire = 60f;
