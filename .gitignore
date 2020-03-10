@@ -62,3 +62,5 @@ sysinfo.txt
 crashlytics-build.properties
 
 *.xml
+.idea/.idea.TowerDefense/.idea/contentModel.xml
+.idea/.idea.TowerDefense/.idea/workspace.xml
